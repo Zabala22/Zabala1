@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Full name on message box/1.0.0": {
+        "runtime": {
+          "Full name on message box.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Full name on message box/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

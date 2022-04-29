@@ -1,0 +1,17 @@
+C:\Users\Adie\source\repos\Full name on message box\bin\Debug\net6.0-windows\Full name on message box.exe
+C:\Users\Adie\source\repos\Full name on message box\bin\Debug\net6.0-windows\Full name on message box.deps.json
+C:\Users\Adie\source\repos\Full name on message box\bin\Debug\net6.0-windows\Full name on message box.runtimeconfig.json
+C:\Users\Adie\source\repos\Full name on message box\bin\Debug\net6.0-windows\Full name on message box.dll
+C:\Users\Adie\source\repos\Full name on message box\bin\Debug\net6.0-windows\Full name on message box.pdb
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.csproj.AssemblyReference.cache
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full_name_on_message_box.Form1.resources
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.csproj.GenerateResource.cache
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.AssemblyInfoInputs.cache
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.AssemblyInfo.cs
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.csproj.CoreCompileInputs.cache
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.dll
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\refint\Full name on message box.dll
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.pdb
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\Full name on message box.genruntimeconfig.cache
+C:\Users\Adie\source\repos\Full name on message box\obj\Debug\net6.0-windows\ref\Full name on message box.dll
